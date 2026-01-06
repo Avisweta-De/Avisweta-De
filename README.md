@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avisweta De</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=MSc+Data+Science+Student;Strong+in+Statistics+and+ML;AI+for+Sustainability+and+Healthcare;Using+AI+to+turn+ideas+into+real+solutions)
-
-
 <h3 align="center">Bsc Statistics Hons | MSc Data Science |</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dddddd,100:ffffff&height=2"/>
