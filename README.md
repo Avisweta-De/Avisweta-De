@@ -41,6 +41,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Avisweta-De&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ## 📫 Connect With Me
